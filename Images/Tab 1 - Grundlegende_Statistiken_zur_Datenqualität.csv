@@ -1,0 +1,15 @@
+,Data Type,Missing Values,Missing (%),Unique Values,Sample Value
+pclass,int64,0,0.0,3,1
+survived,int64,0,0.0,2,1
+name,object,0,0.0,1307,"Allen, Miss. Elisabeth Walton"
+sex,object,0,0.0,2,female
+age,float64,263,20.09,98,29.0
+sibsp,int64,0,0.0,7,0
+parch,int64,0,0.0,8,0
+ticket,object,0,0.0,929,24160
+fare,float64,1,0.08,281,211.3375
+cabin,object,1014,77.46,186,B5
+embarked,object,2,0.15,3,S
+boat,object,823,62.87,27,2
+body,float64,1188,90.76,121,
+home.dest,object,564,43.09,369,"St Louis, MO"
